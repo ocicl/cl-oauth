@@ -1,0 +1,9 @@
+* cl-oauth
+
+OAuth for Common Lisp
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/skypher/cl-oauth.git |
+| commit  | a7a463c                                     |
+| systems | cl-oauth                                    |
+|---------+---------------------------------------------|
